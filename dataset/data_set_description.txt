@@ -1,0 +1,7 @@
+About Dataset Details
+This dataset contains the details of over 11,000 athletes, with 47 disciples, along with 743 teams that were taking part in Tokyo Olympics 2020- 2021.
+
+It contains data set of athletes, coaches, and teams participating as well as entries by gender. It contains names, countries, disciplines, gender and names of the coaches as well.
+
+Credits
+Source : Tokyo Olympics 2020 Website
