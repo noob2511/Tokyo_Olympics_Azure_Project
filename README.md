@@ -30,4 +30,8 @@ Lake, transform the data using Databricks and then use Azure synapses for data a
 14. To create the connection , we need to pass client id, secretkey, tenant id, and then also provide mount id ( here using syntax of container_name@storage_account and for mount 
     name use any name and then try to establish the connection on databricks console.
 15. We also need to provide role access for the app, using stroage and IAM.
+16. For analysis , we will head back to azure synapses, and create a workspace with name : tokyo-olympic-ss
+17. Using Syanpse UI, create tables from data lake for all data set.
+18. Run SQL queries and see charts
+19. 
 
