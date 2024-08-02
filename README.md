@@ -33,5 +33,5 @@ Lake, transform the data using Databricks and then use Azure synapses for data a
 16. For analysis , we will head back to azure synapses, and create a workspace with name : tokyo-olympic-ss
 17. Using Syanpse UI, create tables from data lake for all data set.
 18. Run SQL queries and see charts
-19. 
+
 
